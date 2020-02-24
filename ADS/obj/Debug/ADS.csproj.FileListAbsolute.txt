@@ -1,0 +1,11 @@
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.Form1.resources
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.Form2.resources
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.Properties.Resources.resources
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\ADS\ADS\bin\Debug\ADS.exe.config
+C:\Users\Влад\source\repos\ADS\ADS\bin\Debug\ADS.exe
+C:\Users\Влад\source\repos\ADS\ADS\bin\Debug\ADS.pdb
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.exe
+C:\Users\Влад\source\repos\ADS\ADS\obj\Debug\ADS.pdb

@@ -1,0 +1,7 @@
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).exe.config
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).exe
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).pdb
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).exe
+C:\Users\Влад\source\repos\Vladoffz\AFD\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).pdb

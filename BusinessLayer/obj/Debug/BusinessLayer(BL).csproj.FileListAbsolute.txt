@@ -1,0 +1,6 @@
+C:\Users\Влад\source\repos\Vladoffz\AFD\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\Влад\source\repos\Vladoffz\AFD\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\Влад\source\repos\Vladoffz\AFD\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Влад\source\repos\Vladoffz\AFD\BusinessLayer\obj\Debug\BusinessLayer(BL).csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Vladoffz\AFD\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\Влад\source\repos\Vladoffz\AFD\BusinessLayer\obj\Debug\BusinessLayer.pdb
